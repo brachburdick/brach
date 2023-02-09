@@ -1,0 +1,22 @@
+{
+  "name": "brachpackage",
+  "version": "1.0.0",
+  "description": "brach :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirbrachthepale/brach.git"
+  },
+  "keywords": [
+    "brach"
+  ],
+  "author": "brach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirbrachthepale/brach/issues"
+  },
+  "homepage": "https://github.com/sirbrachthepale/brach#readme"
+}
